@@ -23,7 +23,7 @@ SNS
 
 ### プログラミング経験
 
-C, C#, PHP, Ruby(メイン), Go, JavaScript/TypeScript, Elixir(学び始めた順)
+C, Pocessing, C#, PHP, Ruby(メイン), Go, JavaScript/TypeScript, Elixir(学び始めた順)
 
 プログラミングは2018年から本格的に始めて、ゲームを作るためにC#→Webに強い興味をもってPHP,Rubyへと手を出し始めました。
 
