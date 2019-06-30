@@ -33,7 +33,7 @@ Unity, Laravel, Ruby on Rails, React.js, Vue.js
 
 今は主にRuby(Ruby on Rails)でWebアプリを個人で作っています。
 
-### その他の知識等
+### その他の知識
 
 プログラミングやWebの知識は全て独学で、特に低レイヤの技術(TCP/IP, インターネット, アルゴリズム, 計算機科学etc...)は書籍で勉強しています。
 
