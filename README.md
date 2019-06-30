@@ -29,7 +29,7 @@ C, C#, PHP, Ruby(メイン), Go, JavaScript/TypeScript, Elixir(学び始めた�
 
 ### フレームワーク、技術経験
 
-Unity, Laravel, Ruby on Rails, React.js, Vue.js
+Unity, Laravel, Ruby on Rails, PostgreSQL, React.js, Vue.js
 
 今は主にRuby(Ruby on Rails)でWebアプリを個人で作っています。
 
