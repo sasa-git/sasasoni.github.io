@@ -35,7 +35,7 @@ Unity, Laravel, Ruby on Rails, PostgreSQL, React.js, Vue.js
 
 ### その他の知識
 
-プログラミングやWeb、DBの知識は全て独学で、特に低レイヤの技術(TCP/IP, インターネット, アルゴリズム, 計算機科学etc...)は書籍で勉強しています。
+Webエンジニアとして必要な知識は全て独学で、DBや低レイヤの技術(TCP/IP, インターネット, アルゴリズム, 計算機科学etc...)は主に書籍で勉強しています。
 
 また、ArduinoやRaspberryPiといったハードウェアも趣味で触っています。
 
