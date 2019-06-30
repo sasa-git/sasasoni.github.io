@@ -41,7 +41,7 @@ Unity, Laravel, Ruby on Rails, React.js, Vue.js
 
 ### 今までに作ったもの
 
-詳しくは[Wantedly](https://www.wantedly.com/users/73013752)へ
+「あったらいいなこんなもの」をモットーに作っています。
 
 #### 特定ジャンルのイベント情報管理サイト
 
