@@ -25,19 +25,23 @@ SNS
 
 ### プログラミング経験
 
-C, Pocessing, C#, PHP, Ruby(メイン), Go, JavaScript/TypeScript, Elixir(学び始めた順)
+C, Pocessing, C#, PHP, Ruby(メイン), Go, JavaScript/TypeScript, Elixir, Python(学び始めた順)
 
 プログラミングは2018年から本格的に始めて、ゲームを作るためにC#→Webに強い興味をもってPHP,Rubyへと手を出し始めました。
 
 ### フレームワーク、技術経験
 
-Unity, Laravel, Ruby on Rails, PostgreSQL, React.js, Vue.js
+Unity, Laravel, Ruby on Rails, PostgreSQL, React.js, Vue.js, AWS
 
 今は主にRuby(Ruby on Rails)でWebアプリを個人で作っています。
+
+### 研究室
+画像処理・ロボティクス研究室というところで画像処理ネタの研究をする予定です。
 
 ### その他の知識
 
 Webエンジニアとして必要な知識は全て独学で、DBや低レイヤの技術(TCP/IP, インターネット, アルゴリズム, 計算機科学etc...)は主に書籍で勉強しています。
+同人技術書を読むのが好きです。
 
 また、ArduinoやRaspberryPiといったハードウェアも趣味で触っています。
 
